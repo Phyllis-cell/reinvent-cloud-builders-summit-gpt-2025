@@ -33,8 +33,7 @@ It’s tailored to improve productivity, discovery, and networking at the summit
 
 ---
 
-##  Screenshots
-(Add your screenshots here!)  
+##  Screenshots 
 Example:
 !<img width="1164" height="600" alt="image" src="https://github.com/user-attachments/assets/cc259481-37cd-4b14-a15e-2d18ca139fcb" />
 )
